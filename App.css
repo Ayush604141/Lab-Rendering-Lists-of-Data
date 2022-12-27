@@ -1,0 +1,9 @@
+ul {
+    color: blue;
+}
+
+ul div {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
